@@ -1,0 +1,4 @@
+A. El sistema de control de versiones Git fue creado por Linus Torvald porque queria ser utilizado en el desarrollo del Kernel.
+B. Github actualmente pertenece a Microsoft. Quien lo compro debido al poco impacto que tuvo su plataforma de codigo CodePlex
+C. Puede existir otra forma para trabajar Github diferente a la terminal.
+
