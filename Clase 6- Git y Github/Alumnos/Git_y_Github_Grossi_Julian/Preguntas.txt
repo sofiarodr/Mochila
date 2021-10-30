@@ -1,0 +1,3 @@
+a.Git fue inventado por Linus Torvalds en 2005, para ser utilizado en el desarrollo del kernel de Linux
+b. Actualmente Github pertenece a Microsoft, para tener el manejo de millones de usuarios que pertenecen a Github.
+c. Si, existe otra forma de trabajar con Github, a traves de su plataforma en la web.
