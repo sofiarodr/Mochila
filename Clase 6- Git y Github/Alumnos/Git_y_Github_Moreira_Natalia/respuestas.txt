@@ -1,0 +1,6 @@
+¿Qué es git? Git es un sistema de control de versiones distribuido que, como ya hemos introducido, fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux
+
+¿A quién le pertenece Github y por qué? Microsoft se quedó con GitHub ya que lo compró en 2018
+
+¿Hay otra forma queno seaa la terminal para trabajar con Github? Sí, se puede utilizar interfaz gráfica para trabajar con Github
+
