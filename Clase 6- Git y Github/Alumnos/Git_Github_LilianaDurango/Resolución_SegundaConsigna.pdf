@@ -1,0 +1,9 @@
+1. Una cheatsheet (recordatorio) de los comandos más utilizados hasta el momento de los comandos más utilizados hasta el momento, con una explicación de la sintaxis de cada uno y qué hacen. Tomar como referencia la cheatsheet de la clase de la terminal:
+
+git init: Crear nuevo repositorio 
+git add: Añade cambios del directorio de trabajo en el entorno de ensayo.
+git status: Muestra el estado de los archivos modificados del directorio de trabajo.
+git pull: Extrae y descarga contenidos de un repositorio remoto y actualiza el repositorio local para ver ese contenido.
+git clone: Se utiliza principalmente para apuntar a un repositorio existente y clonar o copiar dicho repositorio en un nuevo directorio, en otra ubicación.
+git commit: Captura el estado de un proyecto en ese determinado momento.
+ 
