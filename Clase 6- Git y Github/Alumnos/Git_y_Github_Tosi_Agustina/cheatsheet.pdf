@@ -1,0 +1,10 @@
+$ git init // Crea el repositorio
+$ git config user.name “user” // Agrega nuestra identidad 
+$ git config user.email “email” // Agrega nuestro email
+$ git clone "link" // Para descargar los archivos de Git
+$ git remote -v // Ver a qué GitHub estamos conectados
+$ git pull origin main // Para actualizar nuestro repositorio que nosotros o alguien más hizo 
+$ git branch -M “Nombredelarama” // Añadir una rama
+$ git branch -m “nombre de la rama” “nombre de la rama en la que estás parada” // Añadir una rama
+$ git branch // Ver cuantas ramas tengo
+
