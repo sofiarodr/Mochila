@@ -1,0 +1,16 @@
+Análisis comparativo
+
+Debido al requerimiento del usuario, el
+
+
+Amd Ryzen 5 3600 para el hermano mayor, pues debido a que necesita hacer ediciones de video este navegador se adecua más
+Cuando se trata de edición de video estamos hablando de una tarea sumamente demandante. El rendimiento componentes y las necesidades en la edición de video no son como jugar
+videojuegos o hacer tareas de ofimática, porque en vez de solo reproducir contenidos o de sencillamente utilizar herramientas sencillas, estamos creando materiales nuevos a 
+partir de materiales que ya tenemos dentro de nuestra computadora. Para esto, necesitamos al menos 6 núcleos con una velocidad de frecuencia de 3,g GHz.
+● Amd a8 9600 para el hermano menor, se desempeña perfectamente en tareas normales de ofimatica. Procesador compuesto por 4 procesadores + 6 procesadores para la GPU.
+Este procesador pertenece a la nueva familia de procesadores AM4, por lo cual utiliza memoria DDR4 hasta 2400Mhz.
+La grafica integrada funciona muy bien, no tienen ningun problema en mover videos 1080p o mover cualquier juego normalito correctamente.
+
+● intel i3 3230 para Matilda, para jugar videojuegos es óptimo pues se trata de un CPU de dos núcleos con tecnología Hyper-Threading (HT) lo cual permitirá tener 4 hilos de ejecución en total para acelerar y mejorar el rendimiento en aplicaciones multitasking. 
+Su máxima velocidad es de 3.3 GHz, esto se debe a que no contiene Turbo Boost aunque no quita que 
+podamos realizar un poco de overclock al mismo, sin embargo sus limitaciones están a la vista. Otras tecnología ausentes en el procesador son el-vPro y el set de instrucciones AES. Por otro lado si cuenta con virtualización (VT-x), Speed Step, entre otras.
