@@ -1,0 +1,34 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+Git was created by Linus Torvalds in 2005 for development of the Linux kernel
+Original author(s)	Linus Torvalds[1]
+Developer(s)	Junio Hamano and others[2]
+
+Git is software for tracking changes in any set of files, usually used for 
+coordinating work among programmers collaboratively developing source code during software development. 
+
+Its goals include speed, data integrity, and support for distributed, non-linear workflows 
+(thousands of parallel branches running on different systems)
+
+b. ¿A quién pertenece actualmente Github y por qué?
+
+El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares,
+1​2​ al inicio el cambio de propietario generó preocupaciones y la salida de algunos proyectos de este repositorio,
+3​ sin embargo no fueron representativos. GitHub continúa siendo la plataforma más importante de colaboración para proyectos Open Source.
+Desde el nombramiento de Satya Nadella como CEO de Microsoft (sustituyendo al infame Steve Ballmer), la compañía ha adoptado 
+una estrategia nueva, mucho más abierta al mundo del software libre y a la integración con otras plataformas y servicios.
+
+Un ejemplo es la adquisición en 2016 de Xamarin, una plataforma que permite crear aplicaciones móviles 
+que pueden funcionar en distintos sistemas, como iOS, Android y (por supuesto) Windows. 
+Y es, precisamente, el que fuera CEO de Xamarin, Nat Friedman, quien será nuevo CEO de GitHub.
+Así pues, esta adquisición es, sin duda, un acercamiento a la comunidad más vibrante en el desarrollo de software libre y abierto.
+
+Además, hay otro motivo de peso: Microsoft Azure. En plena explosión de cloud services (servicios en la nube),
+con un crecimiento previsto para este año del 21.4%, Microsoft tiene que competir con el líder indiscutible a día de hoy,
+la todopoderosa Amazon con AWS. Qué mejor forma de hacerlo que estar en contacto directo
+con los desarrolladores que trabajan en esos servicios, ver sus necesidades y ofrecerles 
+herramientas que faciliten su integración con Azure.
+
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Si Github grahp es una extensión para VS Code
