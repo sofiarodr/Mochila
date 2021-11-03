@@ -1,0 +1,16 @@
+Comandos y para que sirven:
+Git init:se utiliza una sola vez durante la configuración inicial de un repositorio nuevo. Al ejecutar este comando, se creará un nuevo subdirectorio
+Git config user.name: sirve para registrar o cambiar el nombre
+Git config user.email: al igual que el user.name, es registrarla identidad de la persona, en este acso el mail.
+Git add o add . : sirbe para agregar los archivos, en el caso de add . es para traer todos los archivos.
+Git commit -m: sirve para commitear (agregar comentario).
+Git push: envia lo actualizado a la rama.
+git pull: sirve para actualizar la rama en nuestra repo.
+Git clone: clona una rama 
+Git branch: sirve para crear una rama
+git branch -m: sirve para renombrar una rama 
+Git status: para ver el estado del repo
+git --rm cached: saca el archivo del commit
+git log: muestra un registro de los commit
+git --help: para ver todos los comando y para que sirven
+mv: renombrar o mover de lugar un archivo
