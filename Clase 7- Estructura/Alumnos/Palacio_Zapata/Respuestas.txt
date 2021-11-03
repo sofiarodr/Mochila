@@ -1,0 +1,6 @@
+Práctica comparativa
+
+R//
+Amd Ryzen 5 3600 -> Matilda
+Amd a8 9600 -> Hermano mayor
+Intel i3 3230 -> Marcela, hermano menor
